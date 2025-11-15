@@ -60,7 +60,7 @@ const Navbar = () => {
       <div className=" hidden sm:flex gap-6 items-center">
         <h1 onClick={()=> navigate("/men-squad")} className="text-white text-[1.2em] cursor-pointer hover:text-gray-300 transition-all duration-200 ease-in-out">Men's Squad</h1>
         <h1 onClick={()=> navigate("/women-squad")} className="text-white text-[1.2em] cursor-pointer hover:text-gray-300 transition-all duration-200 ease-in-out">
-          Woman's Squad
+          Women's Squad
         </h1>
         <h1 onClick={()=> navigate("/stat")} className="text-white text-[1.2em] cursor-pointer hover:text-gray-300 transition-all duration-200 ease-in-out">
           Stats
