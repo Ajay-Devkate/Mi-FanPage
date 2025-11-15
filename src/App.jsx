@@ -15,7 +15,7 @@ const [loading, setLoading] = useState(true);
 const [progress, setProgress] = useState(0);
 
   useEffect(() => {
-    const totalDuration = 2000; 
+    const totalDuration = 3000; 
     const steps = 100;
     const intervalTime = totalDuration / steps; 
 
