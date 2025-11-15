@@ -391,7 +391,7 @@ const Stat = () => {
             <div className="sm:pt-30 pt-24  h-full sm:px-34 px-6">
               <div className="flex items-center justify-between">
                 <h1 className="text-[#001746] font-semibold sm:text-4xl text-2xl">
-                  WIPL Batting Statistics
+                  WPL Batting Statistics
                 </h1>
                 <img
                   onClick={() => setGen("men")}

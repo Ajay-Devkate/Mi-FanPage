@@ -21,7 +21,7 @@ const Footer = () => {
                 <div className="flex items-center flex-col sm:gap-6 gap-6 sm:pt-0 pt-8">
                      <h1 onClick={()=> navigate("/men-squad")} className="text-white text-[1.2em] cursor-pointer hover:text-gray-300 transition-all duration-200 ease-in-out">Men's Squad</h1>
                  <h1 onClick={()=> navigate("/women-squad")} className="text-white text-[1.2em] cursor-pointer hover:text-gray-300 transition-all duration-200 ease-in-out">
-                   Woman's Squad
+                   Women's Squad
                  </h1>
                  <h1 onClick={()=> navigate("/stat")} className="text-white text-[1.2em] cursor-pointer hover:text-gray-300 transition-all duration-200 ease-in-out">
                    Stats

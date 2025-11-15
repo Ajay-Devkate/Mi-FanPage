@@ -25,7 +25,7 @@ export const trophies = [
     img: "https://res.cloudinary.com/dp8umj9cw/image/upload/toppng.com-ipl-trophy-png-2018-indian-premier-league-4006x335_qhap2m.jpg",
   },
     {
-    year: "2023",
+    year: "2023 (WPL)",
     desc: "MIW defeated Delhi Capitals Women in the final at Brabourne Stadium. Harmanpreet Kaur led the team to a historic championship victory.",
     img: "https://res.cloudinary.com/dp8umj9cw/image/upload/toppng.com-ipl-trophy-png-2018-indian-premier-league-4006x335_qhap2m.jpg", 
   }
